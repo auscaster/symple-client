@@ -1,6 +1,6 @@
 {
   "name": "symple-client",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Symple realtime messaging and presence client",
   "type": "module",
   "main": "./src/index.js",
@@ -13,7 +13,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nilstate/symple-client.git"
+    "url": "git+https://github.com/auscaster/symple-client.git"
   },
   "keywords": [
     "symple",
@@ -25,10 +25,10 @@
     "webrtc",
     "chat"
   ],
-  "author": "Kam Low <auscaster@gmail.com> (https://0state.com)",
+  "author": "Kam Low <auscaster@gmail.com> (https://auscaster.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nilstate/symple-client/issues"
+    "url": "https://github.com/auscaster/symple-client/issues"
   },
-  "homepage": "https://0state.com/symple"
+  "homepage": "https://auscaster.com/symple"
 }
